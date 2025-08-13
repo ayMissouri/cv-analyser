@@ -13,8 +13,8 @@ export default function Home() {
       <Navbar />
 
       <section className='main-section'>
-        <div className='page-heading'>
-          <h1>Track your CV & Job Applications</h1>
+        <div className='page-heading py-16'>
+          <h1>Track Your CV Ratings & Job Applications</h1>
           <h2>Get feedback on your submissions using AI-powered insights</h2>
         </div>
 
